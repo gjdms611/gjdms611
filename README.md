@@ -3,7 +3,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gjdms611&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjdms611)](https://solved.ac/gjdms611)
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://gjdms611.github.io/)](https://gjdms611.github.io/)
 
 <div align=center>
   
